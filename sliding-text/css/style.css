@@ -1,0 +1,18 @@
+.list {
+    width:50vw;
+    
+}
+.link {
+    width: 50vw;
+}
+
+.link .title{
+    border: 2px solid blue;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.link .text{
+    padding: 5px;
+    display: none;
+}
