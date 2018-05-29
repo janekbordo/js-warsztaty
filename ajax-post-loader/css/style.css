@@ -1,0 +1,13 @@
+#main{
+    text-align: center;
+    
+}
+
+#btn{
+    display: block;
+    line-height: 50px;
+    border: 1px solid blue;
+    color: blue;
+    width: 100%;
+}
+
